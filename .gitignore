@@ -1,0 +1,13 @@
+# Don't commit sensitive configuration
+config.json
+
+# Don't commit OpenAPI files (may contain sensitive endpoints)
+*.json
+!config.example.json
+
+# Don't commit results
+results_*.txt
+
+# Python cache files
+__pycache__/
+*.pyc

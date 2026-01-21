@@ -1,0 +1,5 @@
+{
+  "base_url": "https://api.example.com",
+  "openapi_file": "openapi.json",
+  "zap_proxy": "http://127.0.0.1:8080"
+}
